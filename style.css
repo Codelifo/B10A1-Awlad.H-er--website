@@ -274,3 +274,32 @@ body{
 
 
 /* support section styles end */
+
+/* footer section starts here */
+.footer_container{
+    width: 1300px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+}
+
+.footer_container h3{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 90px;
+}
+
+.icons{
+    margin-right: 50px;
+}
+.icons a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+/* footer section ends here */
