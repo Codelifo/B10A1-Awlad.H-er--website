@@ -41,6 +41,7 @@ body{
     font-size: 14px;
     font-weight: 400;
     text-align: center;
+    line-height: 30px;
 }
 
 .banner_content a{
@@ -183,7 +184,7 @@ body{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 24px;
-    font-weight: 800;
+    font-weight: 700;
 }
 .target_description{
     color: rgb(13, 19, 33);
@@ -200,6 +201,10 @@ body{
     font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 700;
+    cursor: pointer;
+}
+.t_b_margin{
+    margin-bottom: 10px;
 }
 
 /* card color start*/
