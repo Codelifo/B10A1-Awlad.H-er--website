@@ -222,7 +222,6 @@ body{
 .support_section{
     width: 1140px;
     height: 313px;
-    /* border: 2px solid red; */
     margin: 0 auto;
     margin-top: 120px;
     background-image: url("./assets/handshake.jpg");
@@ -316,11 +315,9 @@ body{
 .web_container{
     width: 1140px;
     height: 1295px;
-    /* border: 2px solid red; */
     margin: 0 auto;
     margin-top: 74px;
     border-radius: 16px;
-    /* background-color: rgba(26, 32, 46, 0.02); */
     background-color: rgba(83, 81, 81, 0.048);
     text-align: center;
 }
@@ -352,7 +349,7 @@ body{
     width: 946px;
     height: 1072px;
     margin-top: 48px;
-    /* border: solid rgb(15, 15, 15); */
+   
 }
 .card_container{
     width: 920px;
@@ -362,7 +359,6 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    /* border: solid red; */
     margin-top: 10px;
 }
 .color_liner_left{
